@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>parking.gif</file>
+        <file>ParkBird.png</file>
+        <file>LotLayout.png</file>
+        <file>QR-SanValentinAR.png</file>
+        <file>green.png</file>
+        <file>Red.png</file>
+        <file>bt_off.png</file>
+        <file>bt_on.png</file>
+        <file>background.png</file>
+        <file>back.png</file>
+        <file>tile-background.png</file>
+        <file>grey-background.jpg</file>
+        <file>blue.png</file>
+        <file>warning.png</file>
+        <file>background-todo.jpg</file>
+    </qresource>
+</RCC>
