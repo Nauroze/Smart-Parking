@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : HWTest.cpp
-// Author      : MK
+// Author      : NH
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
